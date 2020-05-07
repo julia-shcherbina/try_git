@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pack-travel-items/my-app/static/css/main.c443e4eb.chunk.css",
+    "main.js": "/pack-travel-items/my-app/static/js/main.b62b1685.chunk.js",
+    "main.js.map": "/pack-travel-items/my-app/static/js/main.b62b1685.chunk.js.map",
+    "runtime-main.js": "/pack-travel-items/my-app/static/js/runtime-main.05de08a8.js",
+    "runtime-main.js.map": "/pack-travel-items/my-app/static/js/runtime-main.05de08a8.js.map",
+    "static/js/2.a489c2db.chunk.js": "/pack-travel-items/my-app/static/js/2.a489c2db.chunk.js",
+    "static/js/2.a489c2db.chunk.js.map": "/pack-travel-items/my-app/static/js/2.a489c2db.chunk.js.map",
+    "index.html": "/pack-travel-items/my-app/index.html",
+    "precache-manifest.917499d767e3ee07bc798956d77c58e3.js": "/pack-travel-items/my-app/precache-manifest.917499d767e3ee07bc798956d77c58e3.js",
+    "service-worker.js": "/pack-travel-items/my-app/service-worker.js",
+    "static/css/main.c443e4eb.chunk.css.map": "/pack-travel-items/my-app/static/css/main.c443e4eb.chunk.css.map",
+    "static/js/2.a489c2db.chunk.js.LICENSE.txt": "/pack-travel-items/my-app/static/js/2.a489c2db.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pack-travel-items/my-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05de08a8.js",
+    "static/js/2.a489c2db.chunk.js",
+    "static/css/main.c443e4eb.chunk.css",
+    "static/js/main.b62b1685.chunk.js"
+  ]
+}
